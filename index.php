@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Bootstrap Flat Registration Form Template</title>
+        <title>iSpoon</title>
 
         <!-- CSS -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
@@ -22,10 +22,9 @@
 		<!-- Javascript -->
 		<script src="assets/js/jquery-1.11.1.min.js"></script>
 		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-		<script src="assets/js/jquery.backstretch.min.js"></script>
+		<script src="assets/js/jquery.backstretch.js"></script>
 		<script src="assets/js/retina-1.1.0.min.js"></script>
 		<script src="assets/js/scripts.js"></script>
-
 
 		<!--[if lt IE 10]>
 		<script src="assets/js/placeholder.js"></script>
@@ -70,7 +69,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h2 style="color: white">iSpoon</h2>
+					<h2 style="margin-top: 0px">iSpoon</h2>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="top-navbar-1">
@@ -104,7 +103,7 @@
                         <div class="col-md-6 col-md-offset-3 form-box">
                         	<div class="form-top">
                         		<div class="form-top-left">
-                            		<h2 style="color: white">Enter Spoon Data</h2>
+                            		<h2>Enter Data</h2>
                         		</div>
                         		<div class="form-top-right">
                         			<i class="fa fa-pencil"></i>

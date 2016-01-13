@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - ispoon@blair.scot" uuid="f3fbbd81-b08f-4604-9770-68e95fbb82e7">
+      <secret-storage>master_key</secret-storage>
+      <user-name>ispoon</user-name>
+      <schema-pattern>ispoon.*</schema-pattern>
+      <default-schemas>ispoon.*</default-schemas>
+    </data-source>
+  </component>
+</project>

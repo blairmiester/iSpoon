@@ -101,6 +101,7 @@
         , maxHeight: 'none'
         , maxWidth: 'none'
         , zIndex: -999999
+          , opacity: 0.5
       }
   };
 
